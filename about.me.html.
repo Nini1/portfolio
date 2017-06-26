@@ -4,12 +4,6 @@
 <title>Page title</title>
 </head>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/ab/2b/ce/ab2bce9c75a81bdc049ceacd0407218e.jpg">
-
-
-
-
-<img src= "https://s6.favim.com/mini/140614/art-awesome-drawning-girl-Favim.com-1838276.jpg" width= "200"
-
 <style>
 
 h1 {
@@ -23,6 +17,9 @@ ul2 {
 text-align: right;
 }
 
+img {
+text-align: right;
+}
 
 </style>
 </head>
@@ -38,7 +35,7 @@ text-align: right;
 <p>My name is Anisah, I am an incoming Junior at DaVinici Design Highschool. I 
 have joined Who code in order to learn more about computer science and get a great experience. </p>
 
-
+<img src= "https://s6.favim.com/mini/140614/art-awesome-drawning-girl-Favim.com-1838276.jpg" width= "200"
 <h4> Likes & Dislikes </h4>
 
 <ul2>
