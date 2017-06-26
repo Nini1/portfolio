@@ -5,9 +5,41 @@
 </head>
 <body>
 
+
+
+
+<style>
+div.container {
+    width: 100%;
+    border: 2px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: blue;
+    background-color: black;
+    clear: left;
+    text-align: center;
+
+</style>
+</head>
+<body>
+
+<div class="container">
+
+
+
+
+
+
+
 <h1>About Me</h1>
+
 <h3> Profile: </h3>
-<p>My name is Anisah, bah bah bah.....</p>
+
+
+<h3> Bio: </h3>
+<p>My name is Anisah, I am an incoming Junior at DaVinici Design Highschool. have joined Who code in order to learn more about computer science and get a great experience. </p>
 
 
 
