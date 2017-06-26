@@ -7,28 +7,17 @@
 
 
 
-
 <style>
-div.container {
-    width: 100%;
-    border: 2px solid gray;
-}
 
-header, footer {
-    padding: 1em;
-    color: blue;
-    background-color: black;
-    clear: left;
-    text-align: center;
+h1 {
+	text-align: center;
+}	
 
 </style>
 </head>
 <body>
 
 <div class="container">
-
-
-
 
 
 
