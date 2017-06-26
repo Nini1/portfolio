@@ -12,14 +12,18 @@
 h1 {
 	text-align: center;
 }
+h4 {
+	text-align: right;
+}
+
+ul2 {
+text-align: right;
+}
+
 
 </style>
 </head>
 <body>
-
-<div class="container">
-
-
 
 
 <h1>About Me</h1>
@@ -32,6 +36,12 @@ h1 {
 have joined Who code in order to learn more about computer science and get a great experience. </p>
 
 
+<h4> Likes & Dislikes </h4>
+
+<ul2>
+	<li> Blueberries </li>
+    <li> Buga </li>
+</ul2>
 
 
 <ul>
