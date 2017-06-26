@@ -25,8 +25,13 @@ align: right;
 </head>
 <body>
 
+
+
 <h1>About Me</h1>
-<img src="https://image.flaticon.com/icons/png/512/37/37232.png" width="356" height="342"
+<BR CLEAR="left"/>
+<img src="https://image.flaticon.com/icons/png/512/37/37232.png" width="356" height="342" align="left">
+<p> thissssss
+
 <h3> Profile: </h3>
 <h2> Here is a list of my interest <h2>
 <h3> Bio: </h3>
