@@ -11,7 +11,7 @@
 
 h1 {
 	text-align: center;
-}	
+}
 
 </style>
 </head>
@@ -25,17 +25,21 @@ h1 {
 <h1>About Me</h1>
 
 <h3> Profile: </h3>
-
+<h2> Here is a list of my interest <h2>
 
 <h3> Bio: </h3>
-<p>My name is Anisah, I am an incoming Junior at DaVinici Design Highschool. have joined Who code in order to learn more about computer science and get a great experience. </p>
+<p>My name is Anisah, I am an incoming Junior at DaVinici Design Highschool. I 
+have joined Who code in order to learn more about computer science and get a great experience. </p>
 
 
 
 
 <ul>
-	<li> this </li>
-    <li> is </li>
+	<li> Cooking </li>
+	<li> Drawing </li>
+	<li> Coding </li>
+	<li> Traveling </li>
+	<li> Music </li>
 </ul>
 </body>
 </html>
