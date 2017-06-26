@@ -1,3 +1,5 @@
+link to website: https://htmlpreview.github.io/?https://github.com/Nini1/portfolio/blob/gh-pages/about.me.html.
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +7,6 @@
 </head>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/ab/2b/ce/ab2bce9c75a81bdc049ceacd0407218e.jpg">
 <style>
-
 h1 {
 	text-align: center;
 }
@@ -18,31 +19,24 @@ text-align: right;
 }
 
 img {
-text-align: right;
+align: right;
 }
-
 </style>
 </head>
 <body>
 
-
 <h1>About Me</h1>
-
 <h3> Profile: </h3>
 <h2> Here is a list of my interest <h2>
-
 <h3> Bio: </h3>
 <p>My name is Anisah, I am an incoming Junior at DaVinici Design Highschool. I 
 have joined Who code in order to learn more about computer science and get a great experience. </p>
-
-<img src= "https://s6.favim.com/mini/140614/art-awesome-drawning-girl-Favim.com-1838276.jpg" width= "200"
+<p> <img src= "https://s6.favim.com/mini/140614/art-awesome-drawning-girl-Favim.com-1838276.jpg"> width= "200" align="right"</p> 
 <h4> Likes & Dislikes </h4>
-
 <ul2>
 	<li> Blueberries </li>
-    <li> Buga </li>
+	<li> Bugs </li>
 </ul2>
-
 
 <ul>
 	<li> Cooking </li>
