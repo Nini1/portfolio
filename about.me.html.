@@ -14,21 +14,22 @@ h1 {
 h4 {
 	text-align: right;
 }
-
+h2 {
+	text-align: center;
+}
 ul2 {
-text-align: right;
+	text-align: right;
 }
 
 img {
-align: right;
+	align: right;
 }
 </style>
 </head>
 <body>
 
 <h1>About Me</h1>
-<h2> Fun Fact!</h2>
-<h4> I SUM SUM SUM </h4>
+<h2> Fun Fact!: *insert fun fact here* </h2>
 
 <BR CLEAR="left"/>
 <img src="https://image.flaticon.com/icons/png/512/37/37232.png" width="356" height="342" align="left">
