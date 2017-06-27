@@ -4,7 +4,7 @@ link to wrap text: https://www.uvm.edu/~bnelson/computer/html/wrappingtextaround
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page title</title>
+<title>About Me</title>
 </head>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/ab/2b/ce/ab2bce9c75a81bdc049ceacd0407218e.jpg">
 <style>
@@ -26,9 +26,10 @@ align: right;
 </head>
 <body>
 
-
-
 <h1>About Me</h1>
+<h2> Fun Fact!</h2>
+<h4> I SUM SUM SUM </h4>
+
 <BR CLEAR="left"/>
 <img src="https://image.flaticon.com/icons/png/512/37/37232.png" width="356" height="342" align="left">
 
