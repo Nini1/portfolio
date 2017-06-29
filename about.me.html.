@@ -18,7 +18,7 @@ h2 {
 	text-align: center;
 }
 ul2 {
-	text-align: right;
+	text-align: left;
 }
 
 img {
@@ -40,7 +40,7 @@ img {
 <h2> Here is a list of my interest <h2>
 <h3> Bio: </h3>
 <p> <font size="6"> My name is Anisah, I am an incoming Junior at DaVinici Design Highschool. I 
-have joined Girls Who Code in order to learn more about computer science and get a great experience. </font> </p>
+have joined Girls Who Code in order to learn more about computer science, get a great experience, and hopefully be open to more job careers. </font> </p>
 
 <p> <img src= "https://s6.favim.com/mini/140614/art-awesome-drawning-girl-Favim.com-1838276.jpg" align="right" width= "200"</p>
 
@@ -50,6 +50,7 @@ have joined Girls Who Code in order to learn more about computer science and get
 <ul2>
 	<li> Blueberries </li>
 	<li> Bugs </li>
+	<li> Tonatoes
 </ul2>
 
 <ul>
@@ -57,7 +58,6 @@ have joined Girls Who Code in order to learn more about computer science and get
 	<li> Drawing </li>
 	<li> Coding </li>
 	<li> Traveling </li>
-	<li> Music </li>
 	
 	
 	<h2> Reflection of June 27, 2017<h2/>
