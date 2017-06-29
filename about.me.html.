@@ -46,19 +46,21 @@ have joined Girls Who Code in order to learn more about computer science, get a 
 
 <a href="https://youtu.be/rKm24Z99hY8">Welcome To Target</a>
 
-<h4> Likes & Dislikes </h4>
-
-<ul2>
-	<li> Blueberries </li>
-	<li> Bugs </li>
-	<li> Tonatoes
-</ul2>
+<h3>  Likes </h3>
 
 <ul>
 	<li> Cooking </li>
 	<li> Drawing </li>
 	<li> Coding </li>
 	<li> Traveling </li>
+</ul>
+
+<h3> Dislikes </h3>
+<ul>
+	<li> Blueberries </li>
+    <li> Bugs </li>
+    <li> Tomatoes </li>
+</ul>
 	
 	<h2> Reflection of June 27, 2017<h2/>
 	<p> So far based on what I've learned, Python and scratch are differnt coding application based on the following. 
