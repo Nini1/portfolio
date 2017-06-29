@@ -1,2 +1,22 @@
 &nbsp; = space.
-DOCTYPE
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body>
+
+<h2> Core 4 </h2>
+<h3> Functions </h3>
+<h3> Conditionals (if then statement)
+<h3> Variables </h3>
+<h3> Loosp </h3>
+
+
+
+
+
+
+</ul>
+</body>
+</html>
