@@ -5,14 +5,26 @@
 <title>About Me</title>
 </head>
 <body>
+<style>
+h2 {
+	text-align: center;
+}
+
+</style>
+
 
 <h2> Core 4 </h2>
 <h3> Functions </h3>
+<p> Fuctions are...
+<pre class="tab"></pre>
 <h3> Conditionals (if then statement)
+<p> Conditionals are... </p>
+<pre class="tab"></pre>
 <h3> Variables </h3>
-<h3> Loosp </h3>
-
-
+<p> Variables are... </p>
+<pre class="tab"></pre>
+<h3> Loops </h3>
+<p> Loops are... </p>
 
 
 
