@@ -7,6 +7,35 @@ link to wrap text: https://www.uvm.edu/~bnelson/computer/html/wrappingtextaround
 <title>About Me</title>
 </head>
 <body background="https://s-media-cache-ak0.pinimg.com/originals/ab/2b/ce/ab2bce9c75a81bdc049ceacd0407218e.jpg">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li><a href="https://htmlpreview.github.io/?https://github.com/Nini1/portfolio/blob/gh-pages/Core4.html.">Core 4</a></li>
+      <li><a href="https://htmlpreview.github.io/?https://github.com/Nini1/portfolio/blob/gh-pages/reflection.html.">Reflections</a></li>
+      <li><a href="https://htmlpreview.github.io/?https://github.com/Nini1/portfolio/blob/gh-pages/about.me.html.">About Me</a></li>
+      <li><a href="#">Portfolio/projects</a></li>
+    </ul>
+  </div>
+</nav>
+  
+<div class="container">
+  <h3>Inverted Navbar</h3>
+  <p>An inverted navbar is black instead of gray.</p>
+</div>
+
+
 <style>
 h1 {
 	text-align: center;
