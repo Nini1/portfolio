@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>About Me</title>
+<title>Core 4</title>
 </head>
 <body>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -28,8 +28,6 @@
 </nav>
   
 <div class="container">
-  <h3>Inverted Navbar</h3>
-  <p>An inverted navbar is black instead of gray.</p>
 </div>
 
 <style>
@@ -44,14 +42,17 @@ h2 {
 <h3> Functions </h3>
 <p> Fuctions are...
 <pre class="tab"></pre>
+
 <h3> Conditionals (if then statement)
-<p> Conditionals are... </p>
+<p> Conditionals are like if-then statements. An example can be used with user input. If the user inputs a certain thing then there will be a certain output. </p>
 <pre class="tab"></pre>
+
 <h3> Variables </h3>
-<p> Variables are... </p>
+<p> Variables are a defined value or object. Like 'x' and 'y' used in algebra, variables are used to store data and help keep code organized.</p>
 <pre class="tab"></pre>
+
 <h3> Loops </h3>
-<p> Loops are... </p>
+<p> Loops are a set of actions performed and repeated for a certain amount of time, forever, or until a certain condition happens.</p>
 
 <p> link to website: https://htmlpreview.github.io/?https://github.com/Nini1/portfolio/blob/gh-pages/about.me.html.
 link to wrap text: https://www.uvm.edu/~bnelson/computer/html/wrappingtextaroundimages.html </p>
