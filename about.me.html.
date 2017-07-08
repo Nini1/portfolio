@@ -57,7 +57,7 @@ img {
 
 <BR CLEAR="left"/>
 <img src="https://image.flaticon.com/icons/png/512/37/37232.png" width="356" height="342" align="left">
-<img src="https://user-images.githubusercontent.com/29712528/27979458-1b013da2-632b-11e7-90ae-d2a002788b2c.png"
+
 
 <h3> Profile: </h3>
 <p> Name: Anisah Moutra<pre class="tab"></pre>
@@ -92,6 +92,8 @@ have joined Girls Who Code in order to learn more about computer science, get a 
     <li> Tomatoes </li>
 </ul>
 	
+	
+<img src="https://user-images.githubusercontent.com/29712528/27979458-1b013da2-632b-11e7-90ae-d2a002788b2c.png">
 <p> On your left you will see a side scroller game. This was a game that me and my partner Itohan created during the first week of the program.
 The idea of the game is to have a sprite, a game player, to be moved from side to side to avoid the falling object: doughnuts.
 There was a tone of code involved when creating the side scrolling game, but in the end it was really fun and I'm so glad that it actually works!
