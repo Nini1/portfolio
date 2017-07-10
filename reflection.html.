@@ -82,5 +82,12 @@ They both work to see how they interract with people and their surroundings, tea
 <p> One new thing that I learned about the internet was that the World Wide Web (www) is in fact not the internet and much more.
 I guess LaTeX would be considered a programing or mark up language because ___________________
 
+
+<h2> July 10, 2017 </h2>
+<p> I learned how to code the movement of a robot. I learned how a servo and piezo work when connected to a circuit in order to get the robot to move.
+Also Kate really helped me and my group when understanding the code for the arduino.
+My favorite part was presentations, because it was fun watching the robots move to each of the songs that the groups had chosen and overal I liked the project.
+Well when we created our website our servos were already inputed into the pins 13 and 12, so depending on their circuit boards they would neeed a power source in order to gain a good position for their servos.
+Also they would need to know the angle of degree that their bots turn, stop, and move backwards or forwards. </p>
 </body>
 </html>
