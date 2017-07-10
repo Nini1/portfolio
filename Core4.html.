@@ -54,6 +54,8 @@ We do this so code is more organized and tracked and also so it isn't really mes
 
 <h3> Variables </h3>
 <p> Variables are a defined value or object. Like 'x' and 'y' used in algebra, variables are used to store data and help keep code organized.</p>
+<img src="https://user-images.githubusercontent.com/29712528/28042848-fe60aa74-6583-11e7-98f6-126220b3e636.png">
+
 <pre class="tab"></pre>
 
 <h3> Loops </h3>
