@@ -40,11 +40,16 @@ h2 {
 
 <h2> Core 4 </h2>
 <h3> Functions </h3>
-<p> Fuctions are...
+<p> A function is like a variable.
+When creating a function we name it what we want to call it, (something easy to remember, relatable to the action it completes), and then we define the function with certain actions.
+We do this so code is more organized and tracked and also so it isn't really messy.
 <pre class="tab"></pre>
 
 <h3> Conditionals </h3>
 <p> Conditionals are like if-then statements. An example can be used with user input. If the user inputs a certain thing then there will be a certain output. </p>
+
+<img src="https://user-images.githubusercontent.com/29712528/28042673-2dee98c4-6583-11e7-8c2e-eb9899e3cf99.png">
+
 <pre class="tab"></pre>
 
 <h3> Variables </h3>
