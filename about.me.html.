@@ -60,11 +60,15 @@ img {
 
 
 <h3> Profile: </h3>
-<p> Name: Anisah Moutra<pre class="tab"></pre>
-Age: 16<pre class="tab"></pre>
-Favorite Color: Turquoise <pre class="tab"></pre>
-Favorite Fruit: Pineapple <pre class="tab"></pre>
-Motto: Don't Be So Snooty Booty
+<p> Name: Anisah Moutra
+<br>
+Age: 16
+<br>
+Favorite Color: Turquoise 
+<br>
+Favorite Fruit: Pineapple 
+<br>
+Motto: Don't Be So Snooty Booty- Happy Feet
 
 <h3> Bio: </h3>
 <p> <font size="4"> My name is Anisah, I am an incoming Junior at DaVinici Design Highschool. I 
@@ -73,7 +77,8 @@ have joined Girls Who Code in order to learn more about computer science, get a 
 <p> <img src= "https://s6.favim.com/mini/140614/art-awesome-drawning-girl-Favim.com-1838276.jpg" align="right" width= "200"</p>
 
 <h3> A link to one of my favorite videos: </h3>
-<a href="https://youtu.be/rKm24Z99hY8">Welcome To Target</a><pre class="tab"></pre>
+<a href="https://youtu.be/rKm24Z99hY8">Welcome To Target</a>
+<br>
 <a href="https://youtu.be/6BFZPIUYyr0">Return of the Mac, and Cheeto</a>
 
 <h3>  Likes </h3>
@@ -106,7 +111,7 @@ There was a tone of code involved when creating the side scrolling game, but in 
 </p>
 	
 	
-	
+a dividers tab-	<pre class="tab"></pre>
 
 </body>
 </html>
